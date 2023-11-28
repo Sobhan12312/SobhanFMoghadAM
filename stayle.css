@@ -209,7 +209,7 @@ footer{
         width: 80px;
     }
     nav{
-        margin-bottom:50px ;
+        margin-bottom:170px ;
     }
     .parent{
         flex-direction: column;
@@ -260,7 +260,7 @@ footer{
         height: 100%;
     }
     footer{
-        margin-top: 100px;
+        margin-top: 170px;
         height: 300px;
     }
 
